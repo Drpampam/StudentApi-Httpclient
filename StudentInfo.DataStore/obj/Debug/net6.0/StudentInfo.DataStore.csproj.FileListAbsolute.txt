@@ -1,0 +1,15 @@
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.DataStore\bin\Debug\net6.0\StudentInfo.DataStore.deps.json
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.DataStore\bin\Debug\net6.0\StudentInfo.DataStore.dll
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.DataStore\bin\Debug\net6.0\StudentInfo.DataStore.pdb
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.DataStore\bin\Debug\net6.0\StudentInfo.Domain.dll
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.DataStore\bin\Debug\net6.0\StudentInfo.Domain.pdb
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.DataStore\obj\Debug\net6.0\StudentInfo.DataStore.csproj.AssemblyReference.cache
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.DataStore\obj\Debug\net6.0\StudentInfo.DataStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.DataStore\obj\Debug\net6.0\StudentInfo.DataStore.AssemblyInfoInputs.cache
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.DataStore\obj\Debug\net6.0\StudentInfo.DataStore.AssemblyInfo.cs
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.DataStore\obj\Debug\net6.0\StudentInfo.DataStore.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.DataStore\obj\Debug\net6.0\StudentInfo.DataStore.csproj.CopyComplete
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.DataStore\obj\Debug\net6.0\StudentInfo.DataStore.dll
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.DataStore\obj\Debug\net6.0\refint\StudentInfo.DataStore.dll
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.DataStore\obj\Debug\net6.0\StudentInfo.DataStore.pdb
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.DataStore\obj\Debug\net6.0\ref\StudentInfo.DataStore.dll

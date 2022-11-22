@@ -1,0 +1,12 @@
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.Domain\bin\Debug\net6.0\StudentInfo.Domain.deps.json
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.Domain\bin\Debug\net6.0\StudentInfo.Domain.dll
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.Domain\bin\Debug\net6.0\StudentInfo.Domain.pdb
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.Domain\obj\Debug\net6.0\StudentInfo.Domain.csproj.AssemblyReference.cache
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.Domain\obj\Debug\net6.0\StudentInfo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.Domain\obj\Debug\net6.0\StudentInfo.Domain.AssemblyInfoInputs.cache
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.Domain\obj\Debug\net6.0\StudentInfo.Domain.AssemblyInfo.cs
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.Domain\obj\Debug\net6.0\StudentInfo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.Domain\obj\Debug\net6.0\StudentInfo.Domain.dll
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.Domain\obj\Debug\net6.0\refint\StudentInfo.Domain.dll
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.Domain\obj\Debug\net6.0\StudentInfo.Domain.pdb
+C:\Users\DOTNET\source\repos\StudentInfo.API\StudentInfo.Domain\obj\Debug\net6.0\ref\StudentInfo.Domain.dll
